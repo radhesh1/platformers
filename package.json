@@ -1,6 +1,6 @@
 {
   "name": "Platforms",
-  "author": "Matthias Schuetz",
+  "author": "Radhesh Goel",
   "description": "3D WebGL platformer game based on THREE.BasicThirdPersonGame.",
   "version": "1.0.0",
   "dependencies": {},
@@ -12,14 +12,14 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/matthias-schuetz/webgl-platforms-game.git"
+      "url": "https://github.com/radhesh1/platformers.git"
     }
   ],
   "licenses": [
     {
       "name": "MIT",
-      "url": "https://github.com/matthias-schuetz/webgl-platforms-game/blob/master/LICENSE"
+      "url": "https://github.com/radhesh1/platformers/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://github.com/matthias-schuetz/webgl-platforms-game"
+  "homepage": "https://github.com/radhesh1/platformers"
 }
