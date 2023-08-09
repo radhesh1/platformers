@@ -18,4 +18,4 @@ A last important notice here applies to the used versions of THREE.js and Cannon
 
 ### License
 
-Platforms is released under the GNU v3 license.
+Platforms is released under the MIT license.
